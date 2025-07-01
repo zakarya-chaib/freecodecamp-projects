@@ -25,3 +25,7 @@
   <li>JavaScript Algorithms and Data Structures</li>
   <li>Responsive Web Design</li>
 </ul>
+
+<p align="center">
+  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" alt="Loading..." width="50" />
+</p>
